@@ -17,5 +17,5 @@ body {
 
 h1 {
   font-size: 100px;
-  text-shadow: 10px 10px 10px hsl(0, 0%, 0%, 50%);
+  text-shadow: 10px 10px 20px hsla(55, 100%, 50%, 0.9);
 }
